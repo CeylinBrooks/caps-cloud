@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CeylinBrooks/caps-cloud#readme",
   "dependencies": {
+    "aws": "0.0.3-2",
     "aws-sdk": "^2.907.0",
     "dotenv": "^9.0.2",
     "faker": "^5.5.3",
